@@ -1,6 +1,5 @@
 import random
 
-from numpy import roll
 
 min_int = 1
 max_int = 6
